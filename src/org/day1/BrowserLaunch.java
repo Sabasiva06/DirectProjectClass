@@ -34,6 +34,10 @@ public class BrowserLaunch {
 				}
 			}
 		}
+		System.out.println("Ausstria");
+		System.out.println("Asia");
+		System.out.println("India");
+		System.out.println("America");
 
 	}
 
