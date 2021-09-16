@@ -34,6 +34,9 @@ public class BrowserLaunch {
 				}
 			}
 		}
+		System.out.println("day1");
+		System.out.println("Selnium");
+		System.out.println("hii");
 		System.out.println("Ausstria");
 		System.out.println("Asia");
 		System.out.println("India");
